@@ -1,0 +1,12 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red play background -->
+  <rect x="0" y="20" width="160" height="80" rx="20" fill="#FF0000"></rect>
+
+  <!-- Play triangle -->
+  <polygon points="65,40 65,80 105,60" fill="white"></polygon>
+
+  <!-- Text: Jutube -->
+  <text x="180" y="85" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="72" fill="black">
+    Jutube
+  </text>
+</svg>
